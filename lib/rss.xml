@@ -1,0 +1,549 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[math]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>math</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 02 Aug 2024 06:12:09 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 02 Aug 2024 06:12:04 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[math-refs]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://libgen.is/" rel="noopener" class="external-link" href="https://libgen.is/" target="_blank">Library Genesis (libgen.is)</a><br><br><br><br>
+<a data-href="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" href="math\basis\naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics</a>
+<br><br>依赖<br>
+<br><a data-href="#线性代数" href="about:blank#线性代数" class="internal-link" target="_self" rel="noopener">线性代数</a>
+<br><a data-href="#python" href="about:blank#python" class="internal-link" target="_self" rel="noopener">python</a>
+<br><br>继续阅读<br>
+<br><a data-href="#欧氏几何/非欧几何" href="about:blank#欧氏几何\非欧几何" class="internal-link" target="_self" rel="noopener">欧氏几何/非欧几何</a>
+<br><a data-href="#数论" href="about:blank#数论" class="internal-link" target="_self" rel="noopener">数论</a>
+<br><a data-href="#实分析" href="about:blank#实分析" class="internal-link" target="_self" rel="noopener">实分析</a>
+<br><a data-href="#组合" href="about:blank#组合" class="internal-link" target="_self" rel="noopener">组合</a>
+<br><a data-href="#公理化集合论" href="about:blank#公理化集合论" class="internal-link" target="_self" rel="noopener">公理化集合论</a>
+<br><br>
+<a data-href="Mathematical Logic and Model Theory" href="math\basis\mathematical-logic-and-model-theory.html" class="internal-link" target="_self" rel="noopener">Mathematical Logic and Model Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#公理化集合论" href="about:blank#公理化集合论" class="internal-link" target="_self" rel="noopener">公理化集合论</a>
+<br><a data-href="#数理与逻辑哲学" href="about:blank#数理与逻辑哲学" class="internal-link" target="_self" rel="noopener">数理与逻辑哲学</a>
+<br><a data-href="#计算理论" href="about:blank#计算理论" class="internal-link" target="_self" rel="noopener">计算理论</a>
+<br><br>继续阅读<br>
+<br><a data-href="#计算理论" href="about:blank#计算理论" class="internal-link" target="_self" rel="noopener">计算理论</a>
+<br><br>
+<a data-href="Axiomatic Set Theory" href="math\basis\axiomatic-set-theory.html" class="internal-link" target="_self" rel="noopener">Axiomatic Set Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#数理与逻辑哲学" href="about:blank#数理与逻辑哲学" class="internal-link" target="_self" rel="noopener">数理与逻辑哲学</a>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#泛代数" href="about:blank#泛代数" class="internal-link" target="_self" rel="noopener">泛代数</a>
+<br><a data-href="#晶格理论" href="about:blank#晶格理论" class="internal-link" target="_self" rel="noopener">晶格理论</a>
+<br><a data-href="#数理逻辑，模型理论" href="about:blank#数理逻辑，模型理论" class="internal-link" target="_self" rel="noopener">数理逻辑，模型理论</a>
+<br><br><br>
+<a data-href="Abstract Algebra" href="math\algebra\abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Abstract Algebra</a>
+<br><br>依赖<br>
+<br><a data-href="#数论" href="about:blank#数论" class="internal-link" target="_self" rel="noopener">数论</a>
+<br><br>继续阅读<br>
+<br><a data-href="#动机——代数几何" href="about:blank#动机——代数几何" class="internal-link" target="_self" rel="noopener">动机——代数几何</a>
+<br><a data-href="#动机——代数拓扑" href="about:blank#动机——代数拓扑" class="internal-link" target="_self" rel="noopener">动机——代数拓扑</a>
+<br><a data-href="#动机——范畴论" href="about:blank#动机——范畴论" class="internal-link" target="_self" rel="noopener">动机——范畴论</a>
+<br><a data-href="#高等线性代数" href="about:blank#高等线性代数" class="internal-link" target="_self" rel="noopener">高等线性代数</a>
+<br><a data-href="#晶格理论" href="about:blank#晶格理论" class="internal-link" target="_self" rel="noopener">晶格理论</a>
+<br><br>
+<a data-href="Advanced Abstract Algebra" href="math\algebra\advanced-abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Abstract Algebra</a>
+<br><br>依赖<br>
+<br><a data-href="#动机——范畴论" href="about:blank#动机——范畴论" class="internal-link" target="_self" rel="noopener">动机——范畴论</a>
+<br><a data-href="#高等线性代数" href="about:blank#高等线性代数" class="internal-link" target="_self" rel="noopener">高等线性代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#代数数论" href="about:blank#代数数论" class="internal-link" target="_self" rel="noopener">代数数论</a>
+<br><br>
+<a data-href="Universal Algebra" href="math\algebra\universal-algebra.html" class="internal-link" target="_self" rel="noopener">Universal Algebra</a>
+<br><br>依赖<br>
+<br><a data-href="#公理化集合论" href="about:blank#公理化集合论" class="internal-link" target="_self" rel="noopener">公理化集合论</a>
+<br><a data-href="#动机——范畴论" href="about:blank#动机——范畴论" class="internal-link" target="_self" rel="noopener">动机——范畴论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="Real Analysis" href="math\analysis\real-analysis.html" class="internal-link" target="_self" rel="noopener">Real Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#一般拓扑学" href="about:blank#一般拓扑学" class="internal-link" target="_self" rel="noopener">一般拓扑学</a>
+<br><a data-href="#数值分析" href="about:blank#数值分析" class="internal-link" target="_self" rel="noopener">数值分析</a>
+<br><a data-href="#复分析" href="about:blank#复分析" class="internal-link" target="_self" rel="noopener">复分析</a>
+<br><br>
+<a data-href="Functional Analysis" href="math\analysis\functional-analysis.html" class="internal-link" target="_self" rel="noopener">Functional Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#数理分析" href="about:blank#数理分析" class="internal-link" target="_self" rel="noopener">数理分析</a>
+<br><br>继续阅读<br>
+<br><a data-href="#高等数理分析" href="about:blank#高等数理分析" class="internal-link" target="_self" rel="noopener">高等数理分析</a>
+<br><br>
+<a data-href="the Theory of Computation" href="math\analysis\the-theory-of-computation.html" class="internal-link" target="_self" rel="noopener">the Theory of Computation</a>
+<br><br>依赖<br>
+<br><a data-href="#python" href="about:blank#python" class="internal-link" target="_self" rel="noopener">python</a>
+<br><a data-href="#数理与逻辑哲学" href="about:blank#数理与逻辑哲学" class="internal-link" target="_self" rel="noopener">数理与逻辑哲学</a>
+<br><a data-href="#数理逻辑，模型理论" href="about:blank#数理逻辑，模型理论" class="internal-link" target="_self" rel="noopener">数理逻辑，模型理论</a>
+<br><br>继续阅读<br>
+<br><a data-href="#数理逻辑，模型理论" href="about:blank#数理逻辑，模型理论" class="internal-link" target="_self" rel="noopener">数理逻辑，模型理论</a>
+<br><br><br>
+<a data-href="Euclidean and Non-Euclidean Geometry" href="math\geo\euclidean-and-non-euclidean-geometry.html" class="internal-link" target="_self" rel="noopener">Euclidean and Non-Euclidean Geometry</a>
+<br><br>依赖<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="Discrete Mathematics" href="math\alge-ana\discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Discrete Mathematics</a>
+<br><br>依赖<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>
+<a data-href="Game Theory" href="math\alge-ana\game-theory.html" class="internal-link" target="_self" rel="noopener">Game Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#概率论" href="about:blank#概率论" class="internal-link" target="_self" rel="noopener">概率论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Number Theory" href="math\alge-ana\number-theory.html" class="internal-link" target="_self" rel="noopener">Number Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>
+<a data-href="Algebraic Number Theory" href="math\alge-ana\algebraic-number-theory.html" class="internal-link" target="_self" rel="noopener">Algebraic Number Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#高等抽象代数" href="about:blank#高等抽象代数" class="internal-link" target="_self" rel="noopener">高等抽象代数</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="Linear Algebra" href="math\alge-geo\linear-algebra.html" class="internal-link" target="_self" rel="noopener">Linear Algebra</a>
+<br><br>依赖<br>
+<br><a data-href="#微积分" href="about:blank#微积分" class="internal-link" target="_self" rel="noopener">微积分</a>
+<br><br>继续阅读<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><a data-href="#微分方程" href="about:blank#微分方程" class="internal-link" target="_self" rel="noopener">微分方程</a>
+<br><br>
+<a data-href="Advanced Linear Algebra" href="math\alge-geo\advanced-linear-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Linear Algebra</a>
+<br><br>依赖<br>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#范畴论" href="about:blank#范畴论" class="internal-link" target="_self" rel="noopener">范畴论</a>
+<br><a data-href="#高等抽象代数" href="about:blank#高等抽象代数" class="internal-link" target="_self" rel="noopener">高等抽象代数</a>
+<br><a data-href="#数理分析" href="about:blank#数理分析" class="internal-link" target="_self" rel="noopener">数理分析</a>
+<br><br>
+<a data-href="Motivation for Category Theory" href="math\alge-geo\motivation-for-category-theory.html" class="internal-link" target="_self" rel="noopener">Motivation for Category Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#范畴论" href="about:blank#范畴论" class="internal-link" target="_self" rel="noopener">范畴论</a>
+<br><a data-href="#高等抽象代数" href="about:blank#高等抽象代数" class="internal-link" target="_self" rel="noopener">高等抽象代数</a>
+<br><a data-href="#泛代数" href="about:blank#泛代数" class="internal-link" target="_self" rel="noopener">泛代数</a>
+<br><br>
+<a data-href="Category Theory" href="math\alge-geo\category-theory.html" class="internal-link" target="_self" rel="noopener">Category Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#高等线性代数" href="about:blank#高等线性代数" class="internal-link" target="_self" rel="noopener">高等线性代数</a>
+<br><a data-href="#动机——范畴论" href="about:blank#动机——范畴论" class="internal-link" target="_self" rel="noopener">动机——范畴论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Combinatorics" href="math\alge-geo\combinatorics.html" class="internal-link" target="_self" rel="noopener">Combinatorics</a>
+<br><br>依赖<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#概率论" href="about:blank#概率论" class="internal-link" target="_self" rel="noopener">概率论</a>
+<br><br>
+<a data-href="Lattice Theory" href="math\alge-geo\lattice-theory.html" class="internal-link" target="_self" rel="noopener">Lattice Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#公理化集合论" href="about:blank#公理化集合论" class="internal-link" target="_self" rel="noopener">公理化集合论</a>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Algebraic Geometry Motivation" href="math\alge-geo\algebraic-geometry-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry Motivation</a>
+<br><br>依赖<br>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#代数几何" href="about:blank#代数几何" class="internal-link" target="_self" rel="noopener">代数几何</a>
+<br><br>
+<a data-href="Algebraic Geometry" href="math\alge-geo\algebraic-geometry.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry</a>
+<br><br>依赖<br>
+<br><a data-href="#动机——代数几何" href="about:blank#动机——代数几何" class="internal-link" target="_self" rel="noopener">动机——代数几何</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="Differential Equations" href="math\ana-geo\differential-equations.html" class="internal-link" target="_self" rel="noopener">Differential Equations</a>
+<br><br>依赖<br>
+<br><a data-href="#线性代数" href="about:blank#线性代数" class="internal-link" target="_self" rel="noopener">线性代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#偏微分方程" href="about:blank#偏微分方程" class="internal-link" target="_self" rel="noopener">偏微分方程</a>
+<br><br>
+<a data-href="Partial Differential Equations" href="math\ana-geo\partial-differential-equations.html" class="internal-link" target="_self" rel="noopener">Partial Differential Equations</a>
+<br><br>依赖<br>
+<br><a data-href="#微分方程" href="about:blank#微分方程" class="internal-link" target="_self" rel="noopener">微分方程</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Complex Analysis" href="math\ana-geo\complex-analysis.html" class="internal-link" target="_self" rel="noopener">Complex Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#实分析" href="about:blank#实分析" class="internal-link" target="_self" rel="noopener">实分析</a>
+<br><br>继续阅读<br>
+<br><a data-href="#数理分析" href="about:blank#数理分析" class="internal-link" target="_self" rel="noopener">数理分析</a>
+<br><br>
+<a data-href="Differential Geometry" href="math\ana-geo\differential-geometry.html" class="internal-link" target="_self" rel="noopener">Differential Geometry</a>
+<br><br>依赖<br>
+<br><a data-href="#数理分析" href="about:blank#数理分析" class="internal-link" target="_self" rel="noopener">数理分析</a>
+<br><br>继续阅读<br>
+<br><a data-href="#高等微分几何" href="about:blank#高等微分几何" class="internal-link" target="_self" rel="noopener">高等微分几何</a>
+<br><br>
+<a data-href="Advanced Differential Geometry" href="math\ana-geo\advanced-differential-geometry.html" class="internal-link" target="_self" rel="noopener">Advanced Differential Geometry</a>
+<br><br>依赖<br>
+<br><a data-href="#微分几何" href="about:blank#微分几何" class="internal-link" target="_self" rel="noopener">微分几何</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Optimization Theory" href="math\ana-geo\optimization-theory.html" class="internal-link" target="_self" rel="noopener">Optimization Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#数理分析" href="about:blank#数理分析" class="internal-link" target="_self" rel="noopener">数理分析</a>
+<br><br>继续阅读<br>
+<br><a data-href="#凸优化" href="about:blank#凸优化" class="internal-link" target="_self" rel="noopener">凸优化</a>
+<br><br>
+<a data-href="Convex Optimization" href="math\ana-geo\convex-optimization.html" class="internal-link" target="_self" rel="noopener">Convex Optimization</a>
+<br><br>依赖<br>
+<br><a data-href="#优化理论" href="about:blank#优化理论" class="internal-link" target="_self" rel="noopener">优化理论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="precalculus" href="math\alge-ana-geo\ana\precalculus.html" class="internal-link" target="_self" rel="noopener">precalculus</a>
+<br><br>依赖<br>
+<br>none
+<br><br>继续阅读<br>
+<br><a data-href="#微积分" href="about:blank#微积分" class="internal-link" target="_self" rel="noopener">微积分</a>
+<br><br>
+<a data-href="calculus" href="math\alge-ana-geo\ana\calculus.html" class="internal-link" target="_self" rel="noopener">calculus</a>
+<br><br>依赖<br>
+<br><a data-href="#precalculus" href="about:blank#precalculus" class="internal-link" target="_self" rel="noopener">precalculus</a>
+<br><br>继续阅读<br>
+<br><a data-href="#线性代数" href="about:blank#线性代数" class="internal-link" target="_self" rel="noopener">线性代数</a>
+<br><a data-tooltip-position="top" aria-label="解决问题" data-href="#解决问题" href="about:blank#解决问题" class="internal-link" target="_self" rel="noopener">解决问题(哲学)</a>
+<br><a data-href="#物理" href="about:blank#物理" class="internal-link" target="_self" rel="noopener">物理</a>
+<br><br>
+<a data-href="Probability Theory" href="math\alge-ana-geo\ana\probability-theory.html" class="internal-link" target="_self" rel="noopener">Probability Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#组合" href="about:blank#组合" class="internal-link" target="_self" rel="noopener">组合</a>
+<br><br>继续阅读<br>
+<br><a data-href="#博弈论" href="about:blank#博弈论" class="internal-link" target="_self" rel="noopener">博弈论</a>
+<br><a data-href="#数理统计" href="about:blank#数理统计" class="internal-link" target="_self" rel="noopener">数理统计</a>
+<br><br>
+<a data-href="Mathematical Statistics" href="math\alge-ana-geo\ana-alge\mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Mathematical Statistics</a>
+<br><br>依赖<br>
+<br><a data-href="#概率论" href="about:blank#概率论" class="internal-link" target="_self" rel="noopener">概率论</a>
+<br><a data-href="#统计" href="about:blank#统计" class="internal-link" target="_self" rel="noopener">统计</a>
+<br><br>继续阅读<br>
+<br><a data-href="#高等概率论" href="about:blank#高等概率论" class="internal-link" target="_self" rel="noopener">高等概率论</a>
+<br><br>
+<a data-href="Advanced Probability Theory" href="math\alge-ana-geo\ana\advanced-probability-theory.html" class="internal-link" target="_self" rel="noopener">Advanced Probability Theory</a>
+<br><br>依赖<br>
+<br><a data-href="#数理统计" href="about:blank#数理统计" class="internal-link" target="_self" rel="noopener">数理统计</a>
+<br><br>继续阅读<br>
+<br><a data-href="#高等数理统计" href="about:blank#高等数理统计" class="internal-link" target="_self" rel="noopener">高等数理统计</a>
+<br><a data-href="#概率统计哲学" href="about:blank#概率统计哲学" class="internal-link" target="_self" rel="noopener">概率统计哲学</a>
+<br><br>
+<a data-href="Advanced Mathematical Statistics" href="math\alge-ana-geo\ana-alge\advanced-mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Statistics</a>
+<br><br>依赖<br>
+<br><a data-href="#高等概率论" href="about:blank#高等概率论" class="internal-link" target="_self" rel="noopener">高等概率论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Numercial Analysis" href="math\alge-ana-geo\ana-alge\numercial-analysis.html" class="internal-link" target="_self" rel="noopener">Numercial Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#实分析" href="about:blank#实分析" class="internal-link" target="_self" rel="noopener">实分析</a>
+<br><a data-href="#python" href="about:blank#python" class="internal-link" target="_self" rel="noopener">python</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="General Topology" href="math\alge-ana-geo\general-topology.html" class="internal-link" target="_self" rel="noopener">General Topology</a>
+<br><br>依赖<br>
+<br><a data-href="#实分析" href="about:blank#实分析" class="internal-link" target="_self" rel="noopener">实分析</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Algebraic Topology Motivation" href="math\alge-ana-geo\algebraic-topology-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology Motivation</a>
+<br><br>依赖<br>
+<br><a data-href="#抽象代数" href="about:blank#抽象代数" class="internal-link" target="_self" rel="noopener">抽象代数</a>
+<br><br>继续阅读<br>
+<br><a data-href="#代数拓扑" href="about:blank#代数拓扑" class="internal-link" target="_self" rel="noopener">代数拓扑</a>
+<br><br>
+<a data-href="Algebraic Topology" href="math\alge-ana-geo\algebraic-topology.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology</a>
+<br><br>依赖<br>
+<br><a data-href="#动机——代数拓扑" href="about:blank#动机——代数拓扑" class="internal-link" target="_self" rel="noopener">动机——代数拓扑</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Mathematical Analysis" href="math\alge-ana-geo\ana-alge\mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Mathematical Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#高等线性代数" href="about:blank#高等线性代数" class="internal-link" target="_self" rel="noopener">高等线性代数</a>
+<br><a data-href="#复分析" href="about:blank#复分析" class="internal-link" target="_self" rel="noopener">复分析</a>
+<br><br>继续阅读<br>
+<br><a data-href="#函数分析" href="about:blank#函数分析" class="internal-link" target="_self" rel="noopener">函数分析</a>
+<br><a data-href="#微分几何" href="about:blank#微分几何" class="internal-link" target="_self" rel="noopener">微分几何</a>
+<br><a data-href="#优化理论" href="about:blank#优化理论" class="internal-link" target="_self" rel="noopener">优化理论</a>
+<br><br>
+<a data-href="Advanced Mathematical Analysis" href="math\alge-ana-geo\ana-alge\advanced-mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Analysis</a>
+<br><br>依赖<br>
+<br><a data-href="#函数分析" href="about:blank#函数分析" class="internal-link" target="_self" rel="noopener">函数分析</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br><br>
+<a data-href="Philosophy" href="philosophy\philosophy.html" class="internal-link" target="_self" rel="noopener">Philosophy</a>
+<br><br>依赖<br>
+<br>none
+<br><br>继续阅读<br>
+<br><a data-href="#逻辑学" href="about:blank#逻辑学" class="internal-link" target="_self" rel="noopener">逻辑学</a>
+<br><br>
+<a data-href="Logic" href="philosophy\logic.html" class="internal-link" target="_self" rel="noopener">Logic</a>
+<br><br>依赖<br>
+<br><a data-href="#哲学" href="about:blank#哲学" class="internal-link" target="_self" rel="noopener">哲学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#语言哲学" href="about:blank#语言哲学" class="internal-link" target="_self" rel="noopener">语言哲学</a>
+<br><br>
+<a data-href="the Philosophy of Language" href="philosophy\the-philosophy-of-language.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Language</a>
+<br><br>依赖<br>
+<br><a data-href="#逻辑学" href="about:blank#逻辑学" class="internal-link" target="_self" rel="noopener">逻辑学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#数理与逻辑哲学" href="about:blank#数理与逻辑哲学" class="internal-link" target="_self" rel="noopener">数理与逻辑哲学</a>
+<br><br>
+<a data-href="the Philosophy of Mathematics and Logic" href="philosophy\the-philosophy-of-mathematics-and-logic.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Mathematics and Logic</a>
+<br><br>依赖<br>
+<br><a data-href="#语言哲学" href="about:blank#语言哲学" class="internal-link" target="_self" rel="noopener">语言哲学</a>
+<br><br>继续阅读<br>
+<br><a data-href="#公理化集合论" href="about:blank#公理化集合论" class="internal-link" target="_self" rel="noopener">公理化集合论</a>
+<br><a data-href="#数理逻辑，模型理论" href="about:blank#数理逻辑，模型理论" class="internal-link" target="_self" rel="noopener">数理逻辑，模型理论</a>
+<br><a data-href="#计算理论" href="about:blank#计算理论" class="internal-link" target="_self" rel="noopener">计算理论</a>
+<br><br>
+<a data-href="Philosophy of Probability and Statistics" href="philosophy\philosophy-of-probability-and-statistics.html" class="internal-link" target="_self" rel="noopener">Philosophy of Probability and Statistics</a>
+<br><br>依赖<br>
+<br><a data-href="#高等概率论" href="about:blank#高等概率论" class="internal-link" target="_self" rel="noopener">高等概率论</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Problem Solving" href="philosophy\problem-solving.html" class="internal-link" target="_self" rel="noopener">Problem Solving</a>
+<br><br>依赖<br>
+<br><a data-href="#微积分" href="about:blank#微积分" class="internal-link" target="_self" rel="noopener">微积分</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br>
+<a data-href="Statistics" href="philosophy\statistics.html" class="internal-link" target="_self" rel="noopener">Statistics</a>
+<br><br>依赖<br>
+<br>none
+<br><br>继续阅读<br>
+<br><a data-href="#数理统计" href="about:blank#数理统计" class="internal-link" target="_self" rel="noopener">数理统计</a>
+<br><br><br>
+<a data-href="Physics" href="optional\physics.html" class="internal-link" target="_self" rel="noopener">Physics</a>
+<br><br>依赖<br>
+<br><a data-href="#微积分" href="about:blank#微积分" class="internal-link" target="_self" rel="noopener">微积分</a>
+<br><br>继续阅读<br>
+<br>none
+<br><br><br>
+<a data-href="docs-hard/数学/refs/optional/Python" href="docs-hard\数学\refs\optional\Python" class="internal-link" target="_self" rel="noopener">docs-hard/数学/refs/optional/Python</a>
+<br><br>继续阅读<br>
+<br><a data-href="#朴素集合论，数学推理，证明，离散数学" href="about:blank#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">朴素集合论，数学推理，证明，离散数学</a>
+<br><a data-href="#数值分析" href="about:blank#数值分析" class="internal-link" target="_self" rel="noopener">数值分析</a>
+<br><a data-href="#计算理论" href="about:blank#计算理论" class="internal-link" target="_self" rel="noopener">计算理论</a>
+<br><br><a data-tooltip-position="top" aria-label="https://simpletex.cn/" rel="noopener" class="external-link" href="https://simpletex.cn/" target="_blank">SimpleTex Home —— Free &amp; Powerful Math Formula OCR software platform</a><br><br><a data-tooltip-position="top" aria-label="https://pan.baidu.com/s/1B6tEr4iDpDQooBi52Vtqzg?pwd=lm77" rel="noopener" class="external-link" href="https://pan.baidu.com/s/1B6tEr4iDpDQooBi52Vtqzg?pwd=lm77" target="_blank">华章数学译丛</a><br>
+<a data-tooltip-position="top" aria-label="https://blog.csdn.net/xhtongyin/article/details/107615351" rel="noopener" class="external-link" href="https://blog.csdn.net/xhtongyin/article/details/107615351" target="_blank">华章数学译丛目录（2020年7月补缺更新版，共73本）_华章数学pdf-CSDN博客</a>]]></description><link>math-refs.html</link><guid isPermaLink="false">math-refs.md</guid><pubDate>Fri, 02 Aug 2024 06:11:49 GMT</pubDate></item><item><title><![CDATA[Algebraic Number Theory]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-ana\algebraic-number-theory.html</link><guid isPermaLink="false">math/alge-ana/Algebraic Number Theory.md</guid><pubDate>Wed, 03 Jul 2024 11:10:58 GMT</pubDate></item><item><title><![CDATA[Discrete Mathematics]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-ana\discrete-mathematics.html</link><guid isPermaLink="false">math/alge-ana/Discrete Mathematics.md</guid><pubDate>Wed, 03 Jul 2024 11:09:06 GMT</pubDate></item><item><title><![CDATA[Game Theory]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-ana\game-theory.html</link><guid isPermaLink="false">math/alge-ana/Game Theory.md</guid><pubDate>Wed, 03 Jul 2024 11:00:46 GMT</pubDate></item><item><title><![CDATA[Number Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Abstract Algebra" href="math\algebra\abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Abstract Algebra</a>
+<br><br>]]></description><link>math\alge-ana\number-theory.html</link><guid isPermaLink="false">math/alge-ana/Number Theory.md</guid><pubDate>Wed, 03 Jul 2024 10:56:31 GMT</pubDate></item><item><title><![CDATA[Advanced Probability Theory]]></title><description><![CDATA[ 
+ <br>
+<br>
+<a data-href="Advanced Mathematical Statistics" href="math\alge-ana-geo\ana-alge\advanced-mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Statistics</a>
+
+<br>
+<a data-href="Philosophy of Probability and Statistics" href="philosophy\philosophy-of-probability-and-statistics.html" class="internal-link" target="_self" rel="noopener">Philosophy of Probability and Statistics</a>
+
+<br>]]></description><link>math\alge-ana-geo\ana\advanced-probability-theory.html</link><guid isPermaLink="false">math/alge-ana-geo/ana/Advanced Probability Theory.md</guid><pubDate>Wed, 03 Jul 2024 11:36:02 GMT</pubDate></item><item><title><![CDATA[calculus]]></title><description><![CDATA[ 
+ <br>
+<br>
+<a data-href="Linear Algebra" href="math\alge-geo\linear-algebra.html" class="internal-link" target="_self" rel="noopener">Linear Algebra</a>
+
+<br>
+<a data-href="Problem Solving" href="philosophy\problem-solving.html" class="internal-link" target="_self" rel="noopener">Problem Solving</a>
+
+<br>
+<a data-href="Physics" href="optional\physics.html" class="internal-link" target="_self" rel="noopener">Physics</a>
+
+<br><br><br><br><a data-href="James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin - Calculus_ Early Transcendentals. 9e-Cengage Learning (2020).pdf" href="James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin - Calculus_ Early Transcendentals. 9e-Cengage Learning (2020).pdf" class="internal-link" target="_self" rel="noopener">James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin - Calculus_ Early Transcendentals. 9e-Cengage Learning (2020).pdf</a>]]></description><link>math\alge-ana-geo\ana\calculus.html</link><guid isPermaLink="false">math/alge-ana-geo/ana/calculus.md</guid><pubDate>Wed, 03 Jul 2024 11:22:33 GMT</pubDate></item><item><title><![CDATA[precalculus]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="calculus" href="math\alge-ana-geo\ana\calculus.html" class="internal-link" target="_self" rel="noopener">calculus</a>
+<br><br><br><a data-href="James Stewart, Lothar Redlin, Saleem Watson - Precalculus. Mathematics for Calculus-Cengage Learning (2024).pdf" href="James Stewart, Lothar Redlin, Saleem Watson - Precalculus. Mathematics for Calculus-Cengage Learning (2024).pdf" class="internal-link" target="_self" rel="noopener">James Stewart, Lothar Redlin, Saleem Watson - Precalculus. Mathematics for Calculus-Cengage Learning (2024).pdf</a><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img alt="20240615123454.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615123454.png?sha=ed9006f208da274f5d02e3feb6bb610ff08d3465" referrerpolicy="no-referrer"><br><br><img alt="$\begin{aligned}&amp;\mathrm{Area}=\sqrt{s(s-a)(s-b)(s-c)}\&amp;\mathrm{where}~s=\frac{a+b+c}{2}\end{aligned}$" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615124414.png?sha=656789875ccc2279cd88390459e854a65c17b97b" referrerpolicy="no-referrer"><br><br>Distance between  and <br>
+ <br><br><img alt="20240615125743.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615125743.png?sha=4fa6cad6d54897c91ca1bfda9de61cd0dc159fb5" referrerpolicy="no-referrer" style="width: 400px; max-width: 100%;"><br><br><br><br><img alt="20240615130052.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615130052.png?sha=dfcc74d0e3a66554c1c7fa93552f7a1cfe730f14" referrerpolicy="no-referrer" style="width: 350px; max-width: 100%;"><br><br><img alt="20240615130344.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615130344.png?sha=1ee74c46e739c54d0abe9d75b89493af927e5065" referrerpolicy="no-referrer"><br><br><img alt="20240615130550.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615130550.png?sha=0ceff1300f200ab8a2b7cb08dc13b1a8197b4fd8" referrerpolicy="no-referrer" style="width: 250px; max-width: 100%;"><br><br>For ,the polar form is<br>
+where  is the modulus of z and  is the argument of <br><br><br><br><img alt="20240615131201.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615131201.png?sha=c4468c16c56cd7d6f2343895b90abc2cbc021475" referrerpolicy="no-referrer" style="width: 500px; max-width: 100%;"><br><br><img alt="20240615131320.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615131320.png?sha=cd0a2599769f840a664141665cb354fbc87e0d88" referrerpolicy="no-referrer"><br><br><br><br>The average rate of change of  between  and  is<br>
+The derivative of  at  is<br>
+<br><br><img alt="20240615131830.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615131830.png?sha=d032b24e06164b4d0dbaaeca97c41d7dec014eff" referrerpolicy="no-referrer"><br><br><br><br><br><br><br>If the series converges and its sum is<br>
+If the series diverges.<br><br><br><br><br><br><br><br>where  is the amount after  years,  is the principal,  is the interest rate, and the interest is compounded  times per year.<br><br>where  is the amount after  years,  is the principal,  is the interest rate, and the interest is compounded continuously.<br><br><img alt="20240615132707.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615132707.png?sha=0c9249f07f56c5fac61ff5b20c454e57e8735b5d" referrerpolicy="no-referrer"><br><br><img alt="20240615132813.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615132813.png?sha=a1c9405b55f9f61909d030a9aeafb7ccc8ca1161" referrerpolicy="no-referrer"><br><br><img alt="20240615132943.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615132943.png?sha=4c00631ef4a455ac2007508bcad64f5d81ecd75e" referrerpolicy="no-referrer"><br><br><img alt="20240615133026.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133026.png?sha=aeb22dbaafd35e376aaa6de35f7cb78e595289e8" referrerpolicy="no-referrer"><br><br><img alt="20240615133134.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133134.png?sha=6d1f51f4f6294a6b75429570f95355d88f193c39" referrerpolicy="no-referrer"><br><br><br><br><img alt="20240615133331.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133331.png?sha=bd77cd5dd2d3b97a31a5920d6e92e5f34c177472" referrerpolicy="no-referrer" style="width: 250px; max-width: 100%;"><br><br><img alt="20240615133415.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133415.png?sha=a2f3b3a4e799cb5a5d4c4cdde0a4ff267f88590f" referrerpolicy="no-referrer" style="width: 400px; max-width: 100%;"><br><br><img alt="20240615133500.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133500.png?sha=9422c4de24b19de64e01565d6b3917ac4fc09c57" referrerpolicy="no-referrer" style="width: 400px; max-width: 100%;"><br><br><img alt="20240615133602.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615133602.png?sha=4450576942c965c27722e590dbb974bbbffff4a5" referrerpolicy="no-referrer" style="width: 400px; max-width: 100%;"><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br><br>
+<br>
+<br><br><br><br><br><br><img alt="20240615134806.png" src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615134806.png?sha=6bb37adad976b695119cff8bb496e22d58d5354f" referrerpolicy="no-referrer" style="width: 300px; max-width: 100%;">]]></description><link>math\alge-ana-geo\ana\precalculus.html</link><guid isPermaLink="false">math/alge-ana-geo/ana/precalculus.md</guid><pubDate>Wed, 03 Jul 2024 11:23:14 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615123454.png?sha=ed9006f208da274f5d02e3feb6bb610ff08d3465" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/liangxiongsl/obsidian-public/main/image/20240615123454.png?sha=ed9006f208da274f5d02e3feb6bb610ff08d3465"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Probability Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Game Theory" href="math\alge-ana\game-theory.html" class="internal-link" target="_self" rel="noopener">Game Theory</a>
+<br><a data-href="Mathematical Statistics" href="math\alge-ana-geo\ana-alge\mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Mathematical Statistics</a>
+<br><br>]]></description><link>math\alge-ana-geo\ana\probability-theory.html</link><guid isPermaLink="false">math/alge-ana-geo/ana/Probability Theory.md</guid><pubDate>Wed, 03 Jul 2024 11:11:17 GMT</pubDate></item><item><title><![CDATA[Advanced Mathematical Analysis]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>math\alge-ana-geo\ana-alge\advanced-mathematical-analysis.html</link><guid isPermaLink="false">math/alge-ana-geo/ana-alge/Advanced Mathematical Analysis.md</guid><pubDate>Wed, 03 Jul 2024 14:47:45 GMT</pubDate></item><item><title><![CDATA[Advanced Mathematical Statistics]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-ana-geo\ana-alge\advanced-mathematical-statistics.html</link><guid isPermaLink="false">math/alge-ana-geo/ana-alge/Advanced Mathematical Statistics.md</guid><pubDate>Wed, 03 Jul 2024 14:42:34 GMT</pubDate></item><item><title><![CDATA[Mathematical Analysis]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Functional Analysis" href="math\analysis\functional-analysis.html" class="internal-link" target="_self" rel="noopener">Functional Analysis</a>
+<br><a data-href="Differential Geometry" href="math\ana-geo\differential-geometry.html" class="internal-link" target="_self" rel="noopener">Differential Geometry</a>
+<br><a data-href="Optimization Theory" href="math\ana-geo\optimization-theory.html" class="internal-link" target="_self" rel="noopener">Optimization Theory</a>
+<br>]]></description><link>math\alge-ana-geo\ana-alge\mathematical-analysis.html</link><guid isPermaLink="false">math/alge-ana-geo/ana-alge/Mathematical Analysis.md</guid><pubDate>Wed, 03 Jul 2024 11:46:43 GMT</pubDate></item><item><title><![CDATA[Mathematical Statistics]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Advanced Probability Theory" href="math\alge-ana-geo\ana\advanced-probability-theory.html" class="internal-link" target="_self" rel="noopener">Advanced Probability Theory</a>
+<br>]]></description><link>math\alge-ana-geo\ana-alge\mathematical-statistics.html</link><guid isPermaLink="false">math/alge-ana-geo/ana-alge/Mathematical Statistics.md</guid><pubDate>Wed, 03 Jul 2024 11:42:14 GMT</pubDate></item><item><title><![CDATA[Numercial Analysis]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>math\alge-ana-geo\ana-alge\numercial-analysis.html</link><guid isPermaLink="false">math/alge-ana-geo/ana-alge/Numercial Analysis.md</guid><pubDate>Wed, 03 Jul 2024 11:41:42 GMT</pubDate></item><item><title><![CDATA[Algebraic Topology]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-ana-geo\algebraic-topology.html</link><guid isPermaLink="false">math/alge-ana-geo/Algebraic Topology.md</guid><pubDate>Wed, 03 Jul 2024 15:01:40 GMT</pubDate></item><item><title><![CDATA[Algebraic Topology Motivation]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Algebraic Topology" href="math\alge-ana-geo\algebraic-topology.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology</a>
+<br>]]></description><link>math\alge-ana-geo\algebraic-topology-motivation.html</link><guid isPermaLink="false">math/alge-ana-geo/Algebraic Topology Motivation.md</guid><pubDate>Wed, 03 Jul 2024 15:09:33 GMT</pubDate></item><item><title><![CDATA[General Topology]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>math\alge-ana-geo\general-topology.html</link><guid isPermaLink="false">math/alge-ana-geo/General Topology.md</guid><pubDate>Wed, 03 Jul 2024 14:56:46 GMT</pubDate></item><item><title><![CDATA[Advanced Linear Algebra]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Category Theory" href="math\alge-geo\category-theory.html" class="internal-link" target="_self" rel="noopener">Category Theory</a>
+<br><a data-href="Advanced Abstract Algebra" href="math\algebra\advanced-abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Abstract Algebra</a>
+<br><a data-href="Mathematical Analysis" href="math\alge-ana-geo\ana-alge\mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Mathematical Analysis</a>
+<br><br>]]></description><link>math\alge-geo\advanced-linear-algebra.html</link><guid isPermaLink="false">math/alge-geo/Advanced Linear Algebra.md</guid><pubDate>Wed, 03 Jul 2024 15:26:50 GMT</pubDate></item><item><title><![CDATA[Algebraic Geometry]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-geo\algebraic-geometry.html</link><guid isPermaLink="false">math/alge-geo/Algebraic Geometry.md</guid><pubDate>Wed, 03 Jul 2024 15:43:09 GMT</pubDate></item><item><title><![CDATA[Algebraic Geometry Motivation]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Algebraic Geometry" href="math\alge-geo\algebraic-geometry.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry</a>
+<br>]]></description><link>math\alge-geo\algebraic-geometry-motivation.html</link><guid isPermaLink="false">math/alge-geo/Algebraic Geometry Motivation.md</guid><pubDate>Wed, 03 Jul 2024 15:47:02 GMT</pubDate></item><item><title><![CDATA[Category Theory]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-geo\category-theory.html</link><guid isPermaLink="false">math/alge-geo/Category Theory.md</guid><pubDate>Wed, 03 Jul 2024 15:35:03 GMT</pubDate></item><item><title><![CDATA[Combinatorics]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Probability Theory" href="math\alge-ana-geo\ana\probability-theory.html" class="internal-link" target="_self" rel="noopener">Probability Theory</a>
+<br><br>]]></description><link>math\alge-geo\combinatorics.html</link><guid isPermaLink="false">math/alge-geo/Combinatorics.md</guid><pubDate>Wed, 03 Jul 2024 15:29:46 GMT</pubDate></item><item><title><![CDATA[Lattice Theory]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\alge-geo\lattice-theory.html</link><guid isPermaLink="false">math/alge-geo/Lattice Theory.md</guid><pubDate>Wed, 03 Jul 2024 15:48:06 GMT</pubDate></item><item><title><![CDATA[Linear Algebra]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" href="math\basis\naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics</a>
+<br><a data-href="Differential Equations" href="math\ana-geo\differential-equations.html" class="internal-link" target="_self" rel="noopener">Differential Equations</a>
+<br><br>]]></description><link>math\alge-geo\linear-algebra.html</link><guid isPermaLink="false">math/alge-geo/Linear Algebra.md</guid><pubDate>Wed, 03 Jul 2024 10:47:17 GMT</pubDate></item><item><title><![CDATA[Motivation for Category Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Category Theory" href="math\alge-geo\category-theory.html" class="internal-link" target="_self" rel="noopener">Category Theory</a>
+<br><a data-href="Advanced Abstract Algebra" href="math\algebra\advanced-abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Abstract Algebra</a>
+<br><a data-href="Universal Algebra" href="math\algebra\universal-algebra.html" class="internal-link" target="_self" rel="noopener">Universal Algebra</a>
+<br>]]></description><link>math\alge-geo\motivation-for-category-theory.html</link><guid isPermaLink="false">math/alge-geo/Motivation for Category Theory.md</guid><pubDate>Wed, 03 Jul 2024 15:38:08 GMT</pubDate></item><item><title><![CDATA[Abstract Algebra]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Algebraic Geometry Motivation" href="math\alge-geo\algebraic-geometry-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry Motivation</a>
+<br><a data-href="Algebraic Topology Motivation" href="math\alge-ana-geo\algebraic-topology-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology Motivation</a>
+<br><a data-href="Motivation for Category Theory" href="math\alge-geo\motivation-for-category-theory.html" class="internal-link" target="_self" rel="noopener">Motivation for Category Theory</a>
+<br><a data-href="Advanced Linear Algebra" href="math\alge-geo\advanced-linear-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Linear Algebra</a>
+<br><a data-href="Lattice Theory" href="math\alge-geo\lattice-theory.html" class="internal-link" target="_self" rel="noopener">Lattice Theory</a>
+<br>]]></description><link>math\algebra\abstract-algebra.html</link><guid isPermaLink="false">math/algebra/Abstract Algebra.md</guid><pubDate>Wed, 03 Jul 2024 15:54:59 GMT</pubDate></item><item><title><![CDATA[Advanced Abstract Algebra]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Algebraic Number Theory" href="math\alge-ana\algebraic-number-theory.html" class="internal-link" target="_self" rel="noopener">Algebraic Number Theory</a>
+<br>]]></description><link>math\algebra\advanced-abstract-algebra.html</link><guid isPermaLink="false">math/algebra/Advanced Abstract Algebra.md</guid><pubDate>Wed, 03 Jul 2024 16:15:51 GMT</pubDate></item><item><title><![CDATA[Universal Algebra]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\algebra\universal-algebra.html</link><guid isPermaLink="false">math/algebra/Universal Algebra.md</guid><pubDate>Wed, 03 Jul 2024 16:04:15 GMT</pubDate></item><item><title><![CDATA[Advanced Differential Geometry]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\ana-geo\advanced-differential-geometry.html</link><guid isPermaLink="false">math/ana-geo/Advanced Differential Geometry.md</guid><pubDate>Thu, 04 Jul 2024 10:41:08 GMT</pubDate></item><item><title><![CDATA[Complex Analysis]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Mathematical Analysis" href="math\alge-ana-geo\ana-alge\mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Mathematical Analysis</a>
+<br><br>]]></description><link>math\ana-geo\complex-analysis.html</link><guid isPermaLink="false">math/ana-geo/Complex Analysis.md</guid><pubDate>Thu, 04 Jul 2024 10:03:24 GMT</pubDate></item><item><title><![CDATA[Convex Optimization]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>math\ana-geo\convex-optimization.html</link><guid isPermaLink="false">math/ana-geo/Convex Optimization.md</guid><pubDate>Thu, 04 Jul 2024 09:47:05 GMT</pubDate></item><item><title><![CDATA[Differential Equations]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Partial Differential Equations" href="math\ana-geo\partial-differential-equations.html" class="internal-link" target="_self" rel="noopener">Partial Differential Equations</a>
+<br><br>]]></description><link>math\ana-geo\differential-equations.html</link><guid isPermaLink="false">math/ana-geo/Differential Equations.md</guid><pubDate>Wed, 03 Jul 2024 16:42:19 GMT</pubDate></item><item><title><![CDATA[Differential Geometry]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Advanced Differential Geometry" href="math\ana-geo\advanced-differential-geometry.html" class="internal-link" target="_self" rel="noopener">Advanced Differential Geometry</a>
+<br><br>]]></description><link>math\ana-geo\differential-geometry.html</link><guid isPermaLink="false">math/ana-geo/Differential Geometry.md</guid><pubDate>Thu, 04 Jul 2024 10:13:21 GMT</pubDate></item><item><title><![CDATA[Optimization Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Convex Optimization" href="math\ana-geo\convex-optimization.html" class="internal-link" target="_self" rel="noopener">Convex Optimization</a>
+<br>]]></description><link>math\ana-geo\optimization-theory.html</link><guid isPermaLink="false">math/ana-geo/Optimization Theory.md</guid><pubDate>Thu, 04 Jul 2024 10:46:20 GMT</pubDate></item><item><title><![CDATA[Partial Differential Equations]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>math\ana-geo\partial-differential-equations.html</link><guid isPermaLink="false">math/ana-geo/Partial Differential Equations.md</guid><pubDate>Thu, 04 Jul 2024 10:09:29 GMT</pubDate></item><item><title><![CDATA[Functional Analysis]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Advanced Mathematical Analysis" href="math\alge-ana-geo\ana-alge\advanced-mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Analysis</a>
+<br><br>]]></description><link>math\analysis\functional-analysis.html</link><guid isPermaLink="false">math/analysis/Functional Analysis.md</guid><pubDate>Thu, 04 Jul 2024 10:52:46 GMT</pubDate></item><item><title><![CDATA[Real Analysis]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="General Topology" href="math\alge-ana-geo\general-topology.html" class="internal-link" target="_self" rel="noopener">General Topology</a>
+<br><a data-href="Numercial Analysis" href="math\alge-ana-geo\ana-alge\numercial-analysis.html" class="internal-link" target="_self" rel="noopener">Numercial Analysis</a>
+<br><a data-href="Complex Analysis" href="math\ana-geo\complex-analysis.html" class="internal-link" target="_self" rel="noopener">Complex Analysis</a>
+<br><br>]]></description><link>math\analysis\real-analysis.html</link><guid isPermaLink="false">math/analysis/Real Analysis.md</guid><pubDate>Thu, 04 Jul 2024 10:49:48 GMT</pubDate></item><item><title><![CDATA[the Theory of Computation]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Mathematical Logic and Model Theory" href="math\basis\mathematical-logic-and-model-theory.html" class="internal-link" target="_self" rel="noopener">Mathematical Logic and Model Theory</a>
+<br>]]></description><link>math\analysis\the-theory-of-computation.html</link><guid isPermaLink="false">math/analysis/the Theory of Computation.md</guid><pubDate>Thu, 04 Jul 2024 10:52:39 GMT</pubDate></item><item><title><![CDATA[Axiomatic Set Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Universal Algebra" href="math\algebra\universal-algebra.html" class="internal-link" target="_self" rel="noopener">Universal Algebra</a>
+<br><a data-href="Lattice Theory" href="math\alge-geo\lattice-theory.html" class="internal-link" target="_self" rel="noopener">Lattice Theory</a>
+<br><a data-href="Mathematical Logic and Model Theory" href="math\basis\mathematical-logic-and-model-theory.html" class="internal-link" target="_self" rel="noopener">Mathematical Logic and Model Theory</a>
+<br>]]></description><link>math\basis\axiomatic-set-theory.html</link><guid isPermaLink="false">math/basis/Axiomatic Set Theory.md</guid><pubDate>Thu, 04 Jul 2024 11:07:32 GMT</pubDate></item><item><title><![CDATA[Mathematical Logic and Model Theory]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="the Theory of Computation" href="math\analysis\the-theory-of-computation.html" class="internal-link" target="_self" rel="noopener">the Theory of Computation</a>
+<br><br>]]></description><link>math\basis\mathematical-logic-and-model-theory.html</link><guid isPermaLink="false">math/basis/Mathematical Logic and Model Theory.md</guid><pubDate>Thu, 04 Jul 2024 10:57:54 GMT</pubDate></item><item><title><![CDATA[Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Euclidean and Non-Euclidean Geometry" href="math\geo\euclidean-and-non-euclidean-geometry.html" class="internal-link" target="_self" rel="noopener">Euclidean and Non-Euclidean Geometry</a>
+<br><a data-href="Number Theory" href="math\alge-ana\number-theory.html" class="internal-link" target="_self" rel="noopener">Number Theory</a>
+<br><a data-href="Real Analysis" href="math\analysis\real-analysis.html" class="internal-link" target="_self" rel="noopener">Real Analysis</a>
+<br><a data-href="Combinatorics" href="math\alge-geo\combinatorics.html" class="internal-link" target="_self" rel="noopener">Combinatorics</a>
+<br><a data-href="Axiomatic Set Theory" href="math\basis\axiomatic-set-theory.html" class="internal-link" target="_self" rel="noopener">Axiomatic Set Theory</a>
+<br>]]></description><link>math\basis\naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html</link><guid isPermaLink="false">math/basis/Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics.md</guid><pubDate>Thu, 04 Jul 2024 11:01:33 GMT</pubDate></item><item><title><![CDATA[Euclidean and Non-Euclidean Geometry]]></title><description><![CDATA[ 
+ <br>]]></description><link>math\geo\euclidean-and-non-euclidean-geometry.html</link><guid isPermaLink="false">math/geo/Euclidean and Non-Euclidean Geometry.md</guid><pubDate>Thu, 04 Jul 2024 11:34:07 GMT</pubDate></item><item><title><![CDATA[traft]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>math\traft.html</link><guid isPermaLink="false">math/traft.md</guid><pubDate>Thu, 04 Jul 2024 11:34:28 GMT</pubDate></item><item><title><![CDATA[Physics]]></title><description><![CDATA[ 
+ <br>]]></description><link>optional\physics.html</link><guid isPermaLink="false">optional/Physics.md</guid><pubDate>Thu, 04 Jul 2024 11:40:01 GMT</pubDate></item><item><title><![CDATA[Python]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" href="math\basis\naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics</a>
+<br><a data-href="Numercial Analysis" href="math\alge-ana-geo\ana-alge\numercial-analysis.html" class="internal-link" target="_self" rel="noopener">Numercial Analysis</a>
+<br><a data-href="the Theory of Computation" href="math\analysis\the-theory-of-computation.html" class="internal-link" target="_self" rel="noopener">the Theory of Computation</a>
+<br>]]></description><link>optional\python.html</link><guid isPermaLink="false">optional/Python.md</guid><pubDate>Thu, 04 Jul 2024 11:43:55 GMT</pubDate></item><item><title><![CDATA[Logic]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="the Philosophy of Language" href="philosophy\the-philosophy-of-language.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Language</a>
+<br>]]></description><link>philosophy\logic.html</link><guid isPermaLink="false">philosophy/Logic.md</guid><pubDate>Thu, 04 Jul 2024 11:45:04 GMT</pubDate></item><item><title><![CDATA[Philosophy]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Logic" href="philosophy\logic.html" class="internal-link" target="_self" rel="noopener">Logic</a>
+<br>]]></description><link>philosophy\philosophy.html</link><guid isPermaLink="false">philosophy/Philosophy.md</guid><pubDate>Thu, 04 Jul 2024 11:45:10 GMT</pubDate></item><item><title><![CDATA[Philosophy of Probability and Statistics]]></title><description><![CDATA[ 
+ <br>]]></description><link>philosophy\philosophy-of-probability-and-statistics.html</link><guid isPermaLink="false">philosophy/Philosophy of Probability and Statistics.md</guid><pubDate>Thu, 04 Jul 2024 11:44:29 GMT</pubDate></item><item><title><![CDATA[Problem Solving]]></title><description><![CDATA[ 
+ <br>]]></description><link>philosophy\problem-solving.html</link><guid isPermaLink="false">philosophy/Problem Solving.md</guid><pubDate>Thu, 04 Jul 2024 11:44:25 GMT</pubDate></item><item><title><![CDATA[Statistics]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Mathematical Statistics" href="math\alge-ana-geo\ana-alge\mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Mathematical Statistics</a>
+<br>]]></description><link>philosophy\statistics.html</link><guid isPermaLink="false">philosophy/Statistics.md</guid><pubDate>Thu, 04 Jul 2024 11:44:33 GMT</pubDate></item><item><title><![CDATA[the Philosophy of Language]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="the Philosophy of Mathematics and Logic" href="philosophy\the-philosophy-of-mathematics-and-logic.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Mathematics and Logic</a>
+<br>]]></description><link>philosophy\the-philosophy-of-language.html</link><guid isPermaLink="false">philosophy/the Philosophy of Language.md</guid><pubDate>Thu, 04 Jul 2024 11:44:52 GMT</pubDate></item><item><title><![CDATA[the Philosophy of Mathematics and Logic]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Axiomatic Set Theory" href="math\basis\axiomatic-set-theory.html" class="internal-link" target="_self" rel="noopener">Axiomatic Set Theory</a>
+<br><a data-href="Mathematical Logic and Model Theory" href="math\basis\mathematical-logic-and-model-theory.html" class="internal-link" target="_self" rel="noopener">Mathematical Logic and Model Theory</a>
+<br><a data-href="the Theory of Computation" href="math\analysis\the-theory-of-computation.html" class="internal-link" target="_self" rel="noopener">the Theory of Computation</a>
+<br>]]></description><link>philosophy\the-philosophy-of-mathematics-and-logic.html</link><guid isPermaLink="false">philosophy/the Philosophy of Mathematics and Logic.md</guid><pubDate>Thu, 04 Jul 2024 11:44:45 GMT</pubDate></item><item><title><![CDATA[未命名]]></title><description><![CDATA[ 
+ <br><a data-href="math-refs#朴素集合论，数学推理，证明，离散数学" href="math-refs.html#朴素集合论，数学推理，证明，离散数学" class="internal-link" target="_self" rel="noopener">math-refs &gt; 朴素集合论，数学推理，证明，离散数学</a>]]></description><link>未命名.html</link><guid isPermaLink="false">未命名.canvas</guid><pubDate>Thu, 01 Aug 2024 09:25:40 GMT</pubDate></item><item><title><![CDATA[main-main]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://github.com/TalalAlrawajfeh/mathematics-roadmap?tab=readme-ov-file" rel="noopener" class="external-link" href="https://github.com/TalalAlrawajfeh/mathematics-roadmap?tab=readme-ov-file" target="_blank">TalalAlrawajfeh/mathematics-roadmap: A Comprehensive Roadmap to Mathematics (github.com)</a><br>资源检索技巧：（英文）<br>
+<br>抽取书名中具有代表性的一个单词
+<br>抽取某个作者的名（注：一般作者的姓会省略或缩写）
+<br>常见问题：<br>
+<br>原版的英文书名可能会被翻译成的中文通常不太恰当（注：可以通过<a data-tooltip-position="top" aria-label="https://book.douban.com/" rel="noopener" class="external-link" href="https://book.douban.com/" target="_blank">豆瓣</a>来得到该书被翻译后的中文书名）
+<br>很多时候 pdf 不是越大越好，大的 pdf 可能是一堆图片，而小的 pdf 更可能是一些纯文本和图片的组合
+<br>notes/solutions 都表示习题答案
+<br>标题的冒号:后面通常与版本号无关
+<br><br><a data-tooltip-position="top" aria-label="https://libgen.is/" rel="noopener" class="external-link" href="https://libgen.is/" target="_blank">Library Genesis (libgen.is)</a><br><br>基础 =&gt; <a data-href="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" href="math\basis\naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics</a>, <a data-href="Mathematical Logic and Model Theory" href="math\basis\mathematical-logic-and-model-theory.html" class="internal-link" target="_self" rel="noopener">Mathematical Logic and Model Theory</a>, <a data-href="Axiomatic Set Theory" href="math\basis\axiomatic-set-theory.html" class="internal-link" target="_self" rel="noopener">Axiomatic Set Theory</a><br>
+纯代数 =&gt; <a data-href="Abstract Algebra" href="math\algebra\abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Abstract Algebra</a>, <a data-href="Advanced Abstract Algebra" href="math\algebra\advanced-abstract-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Abstract Algebra</a>, <a data-href="Universal Algebra" href="math\algebra\universal-algebra.html" class="internal-link" target="_self" rel="noopener">Universal Algebra</a><br>
+纯分析：<br>
+<br><a data-href="Real Analysis" href="math\analysis\real-analysis.html" class="internal-link" target="_self" rel="noopener">Real Analysis</a>, <a data-href="Functional Analysis" href="math\analysis\functional-analysis.html" class="internal-link" target="_self" rel="noopener">Functional Analysis</a>
+<br><a data-href="the Theory of Computation" href="math\analysis\the-theory-of-computation.html" class="internal-link" target="_self" rel="noopener">the Theory of Computation</a><br>
+纯几何 =&gt; <a data-href="Euclidean and Non-Euclidean Geometry" href="math\geo\euclidean-and-non-euclidean-geometry.html" class="internal-link" target="_self" rel="noopener">Euclidean and Non-Euclidean Geometry</a><br>
+代数+分析：
+<br><a data-href="Discrete Mathematics" href="math\alge-ana\discrete-mathematics.html" class="internal-link" target="_self" rel="noopener">Discrete Mathematics</a>
+<br><a data-href="Game Theory" href="math\alge-ana\game-theory.html" class="internal-link" target="_self" rel="noopener">Game Theory</a>
+<br><a data-href="Number Theory" href="math\alge-ana\number-theory.html" class="internal-link" target="_self" rel="noopener">Number Theory</a>, <a data-href="Algebraic Number Theory" href="math\alge-ana\algebraic-number-theory.html" class="internal-link" target="_self" rel="noopener">Algebraic Number Theory</a><br>
+代数+几何：
+<br><a data-href="Linear Algebra" href="math\alge-geo\linear-algebra.html" class="internal-link" target="_self" rel="noopener">Linear Algebra</a>, <a data-href="Advanced Linear Algebra" href="math\alge-geo\advanced-linear-algebra.html" class="internal-link" target="_self" rel="noopener">Advanced Linear Algebra</a>, <a data-href="Motivation for Category Theory" href="math\alge-geo\motivation-for-category-theory.html" class="internal-link" target="_self" rel="noopener">Motivation for Category Theory</a>, <a data-href="Category Theory" href="math\alge-geo\category-theory.html" class="internal-link" target="_self" rel="noopener">Category Theory</a>
+<br><a data-href="Combinatorics" href="math\alge-geo\combinatorics.html" class="internal-link" target="_self" rel="noopener">Combinatorics</a>
+<br><a data-href="Lattice Theory" href="math\alge-geo\lattice-theory.html" class="internal-link" target="_self" rel="noopener">Lattice Theory</a>
+<br><a data-href="Algebraic Geometry Motivation" href="math\alge-geo\algebraic-geometry-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry Motivation</a>, <a data-href="Algebraic Geometry" href="math\alge-geo\algebraic-geometry.html" class="internal-link" target="_self" rel="noopener">Algebraic Geometry</a><br>
+分析+几何：
+<br><a data-href="Differential Equations" href="math\ana-geo\differential-equations.html" class="internal-link" target="_self" rel="noopener">Differential Equations</a>, <a data-href="Partial Differential Equations" href="math\ana-geo\partial-differential-equations.html" class="internal-link" target="_self" rel="noopener">Partial Differential Equations</a>
+<br><a data-href="Complex Analysis" href="math\ana-geo\complex-analysis.html" class="internal-link" target="_self" rel="noopener">Complex Analysis</a><br>
+- <a data-href="Differential Geometry" href="math\ana-geo\differential-geometry.html" class="internal-link" target="_self" rel="noopener">Differential Geometry</a>, <a data-href="Advanced Differential Geometry" href="math\ana-geo\advanced-differential-geometry.html" class="internal-link" target="_self" rel="noopener">Advanced Differential Geometry</a><br>
+- <a data-href="Optimization Theory" href="math\ana-geo\optimization-theory.html" class="internal-link" target="_self" rel="noopener">Optimization Theory</a>, <a data-href="Convex Optimization" href="math\ana-geo\convex-optimization.html" class="internal-link" target="_self" rel="noopener">Convex Optimization</a><br>
+代数+分析+几何：
+<br><a data-href="precalculus" href="math\alge-ana-geo\ana\precalculus.html" class="internal-link" target="_self" rel="noopener">precalculus</a>, <a data-href="calculus" href="math\alge-ana-geo\ana\calculus.html" class="internal-link" target="_self" rel="noopener">calculus</a>
+<br><a data-href="Probability Theory" href="math\alge-ana-geo\ana\probability-theory.html" class="internal-link" target="_self" rel="noopener">Probability Theory</a>, <a data-href="Mathematical Statistics" href="math\alge-ana-geo\ana-alge\mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Mathematical Statistics</a>, <a data-href="Advanced Probability Theory" href="math\alge-ana-geo\ana\advanced-probability-theory.html" class="internal-link" target="_self" rel="noopener">Advanced Probability Theory</a>, <a data-href="Advanced Mathematical Statistics" href="math\alge-ana-geo\ana-alge\advanced-mathematical-statistics.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Statistics</a>
+<br><a data-href="Numercial Analysis" href="math\alge-ana-geo\ana-alge\numercial-analysis.html" class="internal-link" target="_self" rel="noopener">Numercial Analysis</a>
+<br><a data-href="General Topology" href="math\alge-ana-geo\general-topology.html" class="internal-link" target="_self" rel="noopener">General Topology</a>
+<br><a data-href="Algebraic Topology Motivation" href="math\alge-ana-geo\algebraic-topology-motivation.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology Motivation</a>, <a data-href="Algebraic Topology" href="math\alge-ana-geo\algebraic-topology.html" class="internal-link" target="_self" rel="noopener">Algebraic Topology</a>
+<br><a data-href="Mathematical Analysis" href="math\alge-ana-geo\ana-alge\mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Mathematical Analysis</a>, <a data-href="Advanced Mathematical Analysis" href="math\alge-ana-geo\ana-alge\advanced-mathematical-analysis.html" class="internal-link" target="_self" rel="noopener">Advanced Mathematical Analysis</a>
+<br><br>哲学：<br>
+<br><a data-href="Philosophy" href="philosophy\philosophy.html" class="internal-link" target="_self" rel="noopener">Philosophy</a>, <a data-href="Logic" href="philosophy\logic.html" class="internal-link" target="_self" rel="noopener">Logic</a>, <a data-href="the Philosophy of Language" href="philosophy\the-philosophy-of-language.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Language</a>, <a data-href="the Philosophy of Mathematics and Logic" href="philosophy\the-philosophy-of-mathematics-and-logic.html" class="internal-link" target="_self" rel="noopener">the Philosophy of Mathematics and Logic</a>
+<br><a data-href="Philosophy of Probability and Statistics" href="philosophy\philosophy-of-probability-and-statistics.html" class="internal-link" target="_self" rel="noopener">Philosophy of Probability and Statistics</a>
+<br><a data-href="Problem Solving" href="philosophy\problem-solving.html" class="internal-link" target="_self" rel="noopener">Problem Solving</a>
+<br><a data-href="Statistics" href="philosophy\statistics.html" class="internal-link" target="_self" rel="noopener">Statistics</a><br>
+物理 =&gt; <a data-href="Physics" href="optional\physics.html" class="internal-link" target="_self" rel="noopener">Physics</a><br>
+python =&gt; <a data-href="docs-hard/数学/refs/optional/Python" href="docs-hard\数学\refs\optional\Python" class="internal-link" target="_self" rel="noopener">docs-hard/数学/refs/optional/Python</a>
+<br><br><a data-tooltip-position="top" aria-label="https://simpletex.cn/" rel="noopener" class="external-link" href="https://simpletex.cn/" target="_blank">SimpleTex Home —— Free &amp; Powerful Math Formula OCR software platform</a><br><br><a data-tooltip-position="top" aria-label="https://pan.baidu.com/s/1B6tEr4iDpDQooBi52Vtqzg?pwd=lm77" rel="noopener" class="external-link" href="https://pan.baidu.com/s/1B6tEr4iDpDQooBi52Vtqzg?pwd=lm77" target="_blank">华章数学译丛</a><br>
+<a data-tooltip-position="top" aria-label="https://blog.csdn.net/xhtongyin/article/details/107615351" rel="noopener" class="external-link" href="https://blog.csdn.net/xhtongyin/article/details/107615351" target="_blank">华章数学译丛目录（2020年7月补缺更新版，共73本）_华章数学pdf-CSDN博客</a><br>springer<br>
+CRC]]></description><link>main-main.html</link><guid isPermaLink="false">main-main.md</guid><pubDate>Thu, 04 Jul 2024 11:03:46 GMT</pubDate></item></channel></rss>
